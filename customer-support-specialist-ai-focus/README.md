@@ -1,6 +1,7 @@
 # Customer Support Specialist Portfolio (AI Focus — B2B)
 
 This portfolio demonstrates my approach to customer support for AI-enabled B2B products. It focuses on issue triage, customer communication, escalation judgment, and explaining AI system behaviour clearly and responsibly to non-technical and semi-technical users.
+
 The examples in this repository are simulated scenarios based on common SaaS and AI support patterns. They are designed to reflect real-world support workflows rather than fictional narratives.
 
 ## What this portfolio shows
