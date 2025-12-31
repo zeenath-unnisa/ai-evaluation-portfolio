@@ -1,5 +1,5 @@
 ## Case ID
-002
+_# DATA SYNC FAILURE (Case 002)_
 
 ## Customer Message
 "Our data hasn’t synced for the past 24 hours, and the AI insights are now outdated. This is affecting our reporting."
