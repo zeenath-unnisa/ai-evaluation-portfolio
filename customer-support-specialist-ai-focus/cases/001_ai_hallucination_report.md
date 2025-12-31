@@ -1,5 +1,5 @@
 ## Case ID
-001
+_# AI HALLUCINATION REPORT (Case 001)_
 
 ## Customer Message
 "The AI-generated summary includes metrics that do not exist in our dataset.
