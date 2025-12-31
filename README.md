@@ -2,7 +2,7 @@
 
 **Purpose:** A professional portfolio of structured support cases and playbooks focused on real-world B2B AI product support scenarios.
 
-**Start here:** `/customer-support-specialist-ai-focus/README.md`
+👉**Start here:** `/customer-support-specialist-ai-focus/README.md`
 
 ---
 
