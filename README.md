@@ -1,9 +1,12 @@
 # Customer Support Specialist Portfolio (AI Focus — B2B)
 
-This repository contains my learning projects and practice scripts as I transition into AI focused Customer Support in a B2B environment.
+**Purpose:** A professional portfolio of structured support cases and playbooks focused on real-world B2B AI product support scenarios.
 
-## Folders to navigate
+**Start here:** `/customer-support-specialist-ai-focus/README.md`
 
-- Cases (This section demonstrates how I would handle a specific type of B2B AI support scenario, including triage, communication, and escalation.)
-- Playbooks (This section entails the guidelines, strategy and language that I would use to address the customer)
-- Rubrics (Classified levels of severtiy and escalation protocol) 
+---
+
+## Portfolio Contents
+• Cases — simulated B2B support issues with triage, communication, and escalation  
+• Playbooks — internal guides for handling AI failures, billing disputes, etc.  
+• Rubrics — severity and priority matrices used for decision-making
