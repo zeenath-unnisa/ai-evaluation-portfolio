@@ -1,5 +1,5 @@
 ## Case ID
-008
+_# USAGE LIMIT WITH QUALITY IMPACT (Case 007)_
 
 ## Customer Message
 "Since we hit our usage limits, the AI responses seem less detailed.
