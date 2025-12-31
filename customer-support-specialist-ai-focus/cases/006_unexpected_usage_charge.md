@@ -1,5 +1,5 @@
 ## Case ID
-006
+_# UNEXPECTED USAGE CHARGE (Case 006)_
 
 ## Customer Message
 "We were charged significantly more this month. The usage numbers don’t align with our expectations."
