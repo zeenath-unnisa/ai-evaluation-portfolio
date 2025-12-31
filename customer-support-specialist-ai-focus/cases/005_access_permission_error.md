@@ -7,6 +7,9 @@ _# ACCESS PERMISSION ERROR (Case 005)_
 ## Category
 Access / Permissions
 
+## Context
+B2B AI product — role-based access control
+
 ## Severity
 SEV-2 (High)
 
