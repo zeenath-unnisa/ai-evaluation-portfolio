@@ -1,5 +1,5 @@
 ## Case ID
-005
+_# ACCESS PERMISSION ERROR (Case 005)_
 
 ## Customer Message
 "Some team members can’t access the AI features even though we’re on the correct plan."
