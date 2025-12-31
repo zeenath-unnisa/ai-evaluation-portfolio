@@ -1,3 +1,6 @@
+## Case ID
+_# MODEL LATENCY ISSUE (Case 004)_
+
 ## Customer Message
 "AI responses are taking over 30 seconds today, which is breaking our workflow."
 
