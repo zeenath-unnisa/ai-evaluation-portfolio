@@ -1,5 +1,5 @@
 ## Case ID
-003
+_# USAGE LIMIT (Case 003)_
 
 ## Customer Message
 "We suddenly can’t generate full AI reports anymore. Is something wrong with the model?"
