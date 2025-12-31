@@ -1,10 +1,9 @@
-# AI Tech Apprentice – Zee
+# Customer Support Specialist Portfolio (AI Focus — B2B)
 
-This repository contains my learning projects and practice scripts
-as I transition into entry-level AI tech / AI support / AI interpreter roles.
+This repository contains my learning projects and practice scripts as I transition into AI focused Customer Support in a B2B environment.
 
-## What’s here (so far)
+## Folders to navigate
 
-- **Python basics** – my first scripts (`day1_hello.py`, `day2_basics.py`) as I learn the language.
-- **Prompt playbook** – experiments with summarising customer emails and structuring issues for support.
-- More to come as I practice logic, data handling, and AI-assisted workflows.
+- Cases (This section demonstrates how I would handle a specific type of B2B AI support scenario, including triage, communication, and escalation.)
+- Playbook (This section entails the guidelines, strategy and language that I would use to address the customer)
+- Rubrics (Classified levels of severtiy and escalation protocol) 
