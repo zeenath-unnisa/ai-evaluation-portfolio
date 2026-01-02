@@ -2,8 +2,16 @@
 _# AI HALLUCINATION REPORT (Case 001)_
 
 ## Customer Message
-"The AI-generated summary includes metrics that do not exist in our dataset.
-This is concerning because it was used in a client presentation."
+"The AI-generated summary includes metrics that do not exist in our dataset. This is concerning because it was used in a client presentation."
+
+## Category
+AI Output Quality
+
+## Context
+B2B AI product — generated insights used for business reporting
+
+## Severity
+SEV-2 (High)
 
 ## Initial Assessment
 Potential AI hallucination impacting business decision-making.
@@ -12,12 +20,6 @@ Potential AI hallucination impacting business decision-making.
 - Can you share the input prompt used?
 - Which dataset or workspace was selected?
 - Was the output edited before use?
-
-## Category
-AI Output Quality
-
-## Severity
-SEV-2 (High)
 
 ## Draft Customer Response
 Thank you for flagging this — I understand how concerning it is when generated outputs don’t reflect your actual data.
