@@ -16,7 +16,7 @@ SEV-2 (High)
 ## Initial Assessment
 - Likely ingestion or integration failure resulting in stale data being used for AI outputs.
 - Impact is moderate to high depending on reporting dependency.
-- Initial assessment based on timing and symptom; requires verification of pipeline status and scope.
+- Initial assessment based on limited information; scope and impact require confirmation.
 
 ## Clarifying Questions
 - Which data source is affected?
