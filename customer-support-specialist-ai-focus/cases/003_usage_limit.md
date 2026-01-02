@@ -7,6 +7,9 @@ _# USAGE LIMIT (Case 003)_
 ## Category
 Usage Limits / AI Behaviour
 
+## Context
+B2B AI product — quota enforcement
+
 ## Severity
 SEV-3 (Medium)
 
