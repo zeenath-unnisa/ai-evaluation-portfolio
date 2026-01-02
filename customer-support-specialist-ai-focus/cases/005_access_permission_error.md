@@ -16,6 +16,7 @@ SEV-2 (High)
 ## Initial Assessment
 - Role-based permission or workspace configuration issue.
 - Core functionality blocked for some users.
+- Initial assessment based on access symptoms; requires validation of role assignments and feature flags.
 
 ## Clarifying Questions
 - What roles are assigned to the affected users?
@@ -32,5 +33,9 @@ AI features are controlled through role-based permissions. I’ll help verify yo
 - Check org-level feature flags
 - Audit recent permission changes
 
+## Workaround (If Applicable)
+- Assign temporary access where appropriate
+- Re-add affected users to the workspace
+
 ## Escalation Decision
-Escalate if permissions appear correct but access issues persist.
+Yes - escalate if configuration appears correct but access remains blocked.
