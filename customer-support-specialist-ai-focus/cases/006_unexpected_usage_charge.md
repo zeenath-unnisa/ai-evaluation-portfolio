@@ -33,6 +33,7 @@ Our billing reflects actual usage across your account. I’d like to review the 
 - Review usage and billing logs
 - Check for recent feature enablement
 - Confirm pricing calculations
+- Confirm whether usage aligns with documented pricing model
 
 ## Workaround (If Applicable)
 - Disable non-essential automation temporarily
