@@ -25,7 +25,7 @@ SEV-2 (High)
 - Does it occur across all features or a single workflow?
 - Are errors or timeouts also occurring?
 
-## Draft Response
+## Draft Customer Response
 Thanks for reporting this — I understand how disruptive latency can be for time-sensitive workflows.
 
 We’re currently investigating increased response times. I’d like to gather a few details to determine whether this is isolated or part of a broader performance issue. I’ll keep you updated as we learn more.
