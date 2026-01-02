@@ -14,7 +14,7 @@ B2B AI product — role-based access control
 SEV-2 (High)
 
 ## Initial Assessment
-- Role-based permission or workspace configuration issue.
+- Likely role-based permission or workspace configuration issue.
 - Core functionality blocked for some users.
 - Initial assessment based on access symptoms; requires validation of role assignments and feature flags.
 
