@@ -14,7 +14,9 @@ B2B AI product — response time degradation affecting customer workflows
 SEV-2 (High)
 
 ## Initial Assessment
-Likely performance degradation impacting inference latency. Possible causes include increased regional load, rate limiting, degraded upstream dependencies, or an active incident affecting model serving. Initial assessment based on limited information; scope and impact need confirmation.
+Likely performance degradation impacting inference latency.
+Possible causes include increased regional load, rate limiting, degraded upstream dependencies, or an active incident affecting model serving.
+Initial assessment based on limited information; scope and impact need confirmation.
 
 ## Clarifying Questions
 - When did the latency start (approximate time and timezone)?
