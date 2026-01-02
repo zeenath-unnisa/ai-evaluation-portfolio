@@ -14,6 +14,7 @@ B2B AI product — quota-based access to AI features
 SEV-3 (Medium)
 
 ## Initial Assessment
+- Expected behaviour under documented usage limits.
 - Likely usage or quota limit reached, affecting output length or availability.
 - No indication of model degradation.
 - Initial assessment based on behaviour pattern; requires confirmation against usage metrics.
