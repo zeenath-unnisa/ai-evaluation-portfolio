@@ -7,6 +7,9 @@ _# DATA SYNC FAILURE (Case 002)_
 ## Category
 Data Sync / Integration
 
+## Context
+B2B AI product — ingestion pipeline
+
 ## Severity
 SEV-2 (High)
 
