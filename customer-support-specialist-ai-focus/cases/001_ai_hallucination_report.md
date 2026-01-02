@@ -15,7 +15,7 @@ SEV-2 (High)
 
 ## Initial Assessment
 - Potential AI hallucination caused by ambiguous input, missing constraints, or insufficient grounding in the selected dataset.
-- High risk due to impact on business decision-making.
+- Elevated risk due to potential impact on business decision-making.
 - Initial assessment based on reported behaviour; requires confirmation through prompt and dataset review.
 
 ## Clarifying Questions
