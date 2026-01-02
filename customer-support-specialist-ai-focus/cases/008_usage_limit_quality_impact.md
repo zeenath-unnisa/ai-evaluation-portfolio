@@ -14,6 +14,7 @@ B2B AI product — context window and quota constraints affecting output quality
 SEV-3 (Medium)
 
 ## Initial Assessment
+- Perceived degradation rather than system failure.
 - User perception issue tied to system constraints rather than model degradation.
 - Reduced output quality likely caused by context or usage limits being reached.
 - Initial assessment based on reported behaviour; subject to confirmation.
