@@ -14,22 +14,30 @@ B2B AI product — generated insights used for business reporting
 SEV-2 (High)
 
 ## Initial Assessment
-Potential AI hallucination impacting business decision-making.
+- Potential AI hallucination caused by ambiguous input, missing constraints, or insufficient grounding in the selected dataset.
+- High risk due to impact on business decision-making.
+- Initial assessment based on reported behaviour; requires confirmation through prompt and dataset review.
 
 ## Clarifying Questions
-- Can you share the input prompt used?
-- Which dataset or workspace was selected?
-- Was the output edited before use?
+- Can you share the prompt or input used to generate the summary?
+- Which dataset or workspace was selected at the time?
+- Has this behaviour occurred more than once?
+- Was the output edited or used directly as generated?
 
 ## Draft Customer Response
-Thank you for flagging this — I understand how concerning it is when generated outputs don’t reflect your actual data.
+Thank you for flagging this — I understand how concerning it is when AI-generated outputs don’t reflect your actual data.
 
-Our AI generates summaries based on patterns it detects in the selected dataset, but it does not independently verify metrics unless explicitly constrained. I’d like to gather a few details so we can reproduce and investigate this properly.
+AI systems can generate plausible-looking information when inputs are ambiguous or insufficiently constrained. I’d like to review the specific prompt and dataset context so we can better understand what caused this behaviour and help prevent it going forward.
 
-## Internal Notes (Engineering)
-- Possible hallucination when prompt lacks metric constraints
-- Check dataset context window
-- Review model confidence thresholds
+## Internal Notes
+- Review prompt structure and dataset grounding
+- Confirm whether constraints were applied
+- Check for similar reports from other customers
+
+## Workaround (If Applicable)
+- Apply clearer constraints in prompts
+- Validate outputs before external use
+- Use recommended best practices for data-bound generation
 
 ## Escalation Decision
-Escalate to AI/ML team due to risk of incorrect business reporting.
+Yes — escalate due to business risk and potential trust impact.
